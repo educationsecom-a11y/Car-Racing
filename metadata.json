@@ -1,0 +1,6 @@
+{
+  "name": "SMK",
+  "description": "First-Person Highway Traffic Rider motorcycle racing arcade game featuring realistic 3D highway perspective, dynamic cockpit HUD, near-miss overtakes, procedural traffic, and level progression.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
